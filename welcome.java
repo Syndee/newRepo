@@ -10,5 +10,4 @@ class Welcome{
 	}
 
 }
-// welcome
-
+// welcome to java
